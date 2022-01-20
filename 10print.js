@@ -1,5 +1,9 @@
 /*
+Zack Wang
+
   one possible implemenation of the 10print.org algorithm written in JavaScript
+
+idea: have a hallway that is a chunk of block that is left clear. Rest is procedurally generated blurs 
 */
 
 const w = process.stdout.columns
